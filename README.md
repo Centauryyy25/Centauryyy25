@@ -19,13 +19,14 @@
 
 ### 🧑‍💻 About Me
 
-I'm a network engineer at **PT. Maxplus Indonesia Anugrah** who also writes code.
+IT enthusiast with a passion for networking, automation, and building things for the web.
 
-- 🔌 Configuring **Cisco, MikroTik, Fortinet, Ruijie** daily
+- 🔌 Hands-on with **Cisco, MikroTik, Fortinet, Ruijie** in multi-vendor environments
 - 🤖 Currently learning **Network Automation** (Python, Ansible)
 - 🌐 Building **full-stack web apps** with Next.js & TypeScript
 - ✍️ Writing about infra & tech on [**Centauryy Library**](https://mini-library-centauryy.vercel.app) and [Medium](https://medium.com/@centauryy)
-- ⚡ Fun fact: I document my networking labs into an [open-source platform](https://ether-docs.vercel.app) with 48+ verified topologies
+- ⚡ I document my networking labs into an [open-source platform](https://ether-docs.vercel.app) with 48+ verified topologies
+- 💼 More about my experience → [**LinkedIn**](https://www.linkedin.com/in/ilham-ahsan-saputra/)
 
 <br clear="right"/>
 
