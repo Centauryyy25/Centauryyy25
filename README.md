@@ -37,6 +37,30 @@ IT enthusiast with a passion for networking, automation, and building things for
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Centauryyy25/Cacti-Scraper-Automation">🌵 Cacti Scraper Automation</a></h3>
+      <p align="center">
+        <a href="https://github.com/Centauryyy25/Cacti-Scraper-Automation"><img src="https://img.shields.io/badge/SOURCE_CODE-000?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+      </p>
+      <p align="center">Automated scraper for Cacti network monitoring — extract graphs, traffic data & device metrics at scale.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cacti-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Centauryyy25/starlink-admin-toolkit">🛰️ Starlink Admin Toolkit</a></h3>
+      <p align="center">
+        <a href="https://github.com/Centauryyy25/starlink-admin-toolkit"><img src="https://img.shields.io/badge/SOURCE_CODE-000?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+      </p>
+      <p align="center">Admin toolkit for managing & monitoring Starlink terminals — diagnostics, config backup & performance tracking.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Centauryyy25/netlabshowcase-docs-platform">🔌 Ether Docs</a></h3>
       <p align="center">
         <a href="https://ether-docs.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/></a>
