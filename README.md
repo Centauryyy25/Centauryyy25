@@ -60,6 +60,8 @@ IT enthusiast with a passion for networking, automation, and building things for
         <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Centauryyy25/netlabshowcase-docs-platform">🔌 Ether Docs</a></h3>
       <p align="center">
